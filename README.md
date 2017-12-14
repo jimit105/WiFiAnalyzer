@@ -10,3 +10,8 @@ Android App which displays the following parameters of the connected WiFi networ
 * MAC Address
 * Frequency
 * Hidden SSID Status
+
+### Screenshots:  
+<img src="/Screenshots/WiFi1.png" width="35%">
+<img src="/Screenshots/WiFi2.png" width="35%">
+<img src="/Screenshots/WiFi3.png" width="35%">
